@@ -24,7 +24,7 @@
             <Button mnemonicParsing="false" onAction="#loadData" text="L_O_A_D" />
             <Label text="Name:" GridPane.columnIndex="1" />
             <Label text="Cred___its:" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-            <Label text="Date of birth:" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Label text="XXXXXDate of birth:" GridPane.columnIndex="1" GridPane.rowIndex="2" />
             <Label fx:id="nameLabel" GridPane.columnIndex="2" />
             <Label fx:id="creditsLabel" GridPane.columnIndex="2" GridPane.rowIndex="1" />
             <Label fx:id="dateOfBirthLabel" GridPane.columnIndex="2" GridPane.rowIndex="2" />
