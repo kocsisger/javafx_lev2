@@ -21,7 +21,7 @@
           <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
-            <Button mnemonicParsing="false" onAction="#loadData" text="Load" />
+            <Button mnemonicParsing="false" onAction="#loadData" text="L_O_A_D" />
             <Label text="Name:" GridPane.columnIndex="1" />
             <Label text="Credits:" GridPane.columnIndex="1" GridPane.rowIndex="1" />
             <Label text="Date of birth:" GridPane.columnIndex="1" GridPane.rowIndex="2" />
